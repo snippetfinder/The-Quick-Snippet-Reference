@@ -42,6 +42,9 @@ Let's build the quickest snippet reference for every programming language, free 
 * [const](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/py/const/const.py)
 * [var](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/py/var/var.py)
 
+### Rust
+* [sample](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/rs/sample%20rs/sample.rs)
+
 ### JavaScript
 * array
     * [empty](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/js/array/empty/empty.js)
