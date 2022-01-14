@@ -43,6 +43,15 @@ Let's build the quickest snippet reference for every programming language, free 
 * [var](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/py/var/var.py)
 
 ### Rust
+* array
+    * [empty](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/rs/array/empty/empty.rs)
+    * [remove](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/rs/array/remove%20clear/remove.rs)
+    * [get](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/rs/array/get/get.rs)
+    * [set](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/rs/array/set/set.rs)
+    * [count](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/rs/array/count/count.rs)
+    * [add](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/rs/array/add/add.rs)
+    * [clear](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/rs/array/clear%20remove/clear.rs)
+    * [cut](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/rs/array/cut/cut.rs)
 * [sample](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/rs/sample%20rs/sample.rs)
 
 ### JavaScript
