@@ -52,7 +52,9 @@ Let's build the quickest snippet reference for every programming language, free 
     * [add](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/rs/array/add/add.rs)
     * [clear](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/rs/array/clear%20remove/clear.rs)
     * [cut](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/rs/array/cut/cut.rs)
+* [const](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/rs/const/const.rs)
 * [sample](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/rs/sample%20rs/sample.rs)
+* [var](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/rs/var/var.rs)
 
 ### JavaScript
 * array
