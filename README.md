@@ -1,6 +1,11 @@
 # The Quick Snippet Reference
 Let's build the quickest snippet reference for every programming language, free to use and modify.
 
+## FAQ
+
+### How is this different from Rosetta Code?
+[Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code) is an excellent learning tool that sparks our curiosity by presenting versions of the same programs in a variety of languages, visit it now if you haven't. The Quick Snippet Reference shares this intention of letting developers compare the differences between languages, but it allows referencing them by their common denominators: the minimal operations we require when coding. For example, how can we cut a range of items from an array in [Rust](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/blob/main/snippets/rs/array/cut/cut.rs), [Python](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/blob/main/snippets/py/array/cut/cut.py) and [JavaScript](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/blob/main/snippets/js/array/cut/cut.js)? The tree of operations can be explored in the following sections.
+
 ## Snippets
 
 ### PHP
@@ -81,6 +86,8 @@ Let's build the quickest snippet reference for every programming language, free 
     * [add](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/js/array/add/add.js)
     * [clear](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/js/array/clear%20remove/clear.js)
     * [cut](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/js/array/cut/cut.js)
+* encode
+    * [uri](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/js/encode/uri%20encode/uri.js)
 * [const](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/js/const/const.js)
 * [var](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/js/var/var.js)
 * [sample](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/js/sample%20js/sample.js)
