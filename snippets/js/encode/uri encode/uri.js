@@ -3,8 +3,8 @@ var query = 'text="hello"&page=3';
 var parameter = 'black&white';
 console.log(encodeURI(url + '?' + query));                     // https://example.com?text=%22hello%22&page=3  ≡
 console.log(url + '?style=' + encodeURIComponent(parameter));  // https://example.com?style=black%26white      ≡
-/* ❯❯❯ GENERATOR:TABLE:JAVASCRIPT:CompareEscape()
-function CompareEscape()
+/* ❯❯❯ GENERATOR:TABLE:JAVASCRIPT:Compare()
+function Compare()
 {
     var table = [['character', 'encodeURI', 'encodeURIComponent', 'escape']];
     var characters = ['*', '.', '_', '-', '~', "'", '!', '(', ')', '/', '+', '@', '?', '=', ':', '#', ';', ',', '$', '&', ' ', '%', '^', '[', ']', '{', '}', '<', '>', '"', '\\', '|', '`'];
