@@ -16,7 +16,10 @@ Let's build the quickest snippet reference for every programming language, free 
 | Rust |X |[O](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/rs/array/remove%20clear/remove.rs) |[O](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/rs/array/get/get.rs) |[O](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/rs/array/set/set.rs) |[O](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/rs/array/count/count.rs) |X |X |X |[O](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/rs/array/add/add.rs) |[O](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/rs/sample%20rs/sample.rs) |[O](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/rs/const/const.rs) |[O](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/rs/var/var.rs) |[O](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/rs/array/empty/empty.rs) |X |X |X |X |X |X |[O](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/rs/array/clear%20remove/clear.rs) |[O](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/rs/array/cut/cut.rs) |X |X |X |X |X |X |
 
 ### PHP
+ <details>
+
 * array
+
     * [var](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/php/array/var%20array/var.php)
     * [remove](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/php/array/remove/remove.php)
     * [get](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/php/array/get/get.php)
@@ -29,9 +32,14 @@ Let's build the quickest snippet reference for every programming language, free 
 * [sample](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/php/sample%20php/sample.php)
 * [const](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/php/const/const.php)
 * [var](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/php/var/var.php)
+</details>
 
+&NewLine;
 ### Python
+ <details>
+
 * array
+
     * [empty](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/py/array/empty/empty.py)
     * [var](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/py/array/var%20array/var.py)
     * [shuffle](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/py/array/shuffle/shuffle.py)
@@ -53,9 +61,14 @@ Let's build the quickest snippet reference for every programming language, free 
 * [sample](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/py/sample%20py/sample.py)
 * [const](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/py/const/const.py)
 * [var](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/py/var/var.py)
+</details>
 
+&NewLine;
 ### Rust
+ <details>
+
 * array
+
     * [empty](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/rs/array/empty/empty.rs)
     * [remove](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/rs/array/remove%20clear/remove.rs)
     * [get](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/rs/array/get/get.rs)
@@ -67,9 +80,14 @@ Let's build the quickest snippet reference for every programming language, free 
 * [const](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/rs/const/const.rs)
 * [sample](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/rs/sample%20rs/sample.rs)
 * [var](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/rs/var/var.rs)
+</details>
 
+&NewLine;
 ### JavaScript
+ <details>
+
 * array
+
     * [empty](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/js/array/empty/empty.js)
     * [var](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/js/array/var%20array/var.js)
     * [shuffle](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/js/array/shuffle/shuffle.js)
@@ -94,7 +112,9 @@ Let's build the quickest snippet reference for every programming language, free 
     * [clear](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/js/array/clear%20remove/clear.js)
     * [cut](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/js/array/cut/cut.js)
 * encode
+
     * [uri](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/js/encode/uri%20encode/uri.js)
 * [const](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/js/const/const.js)
 * [var](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/js/var/var.js)
 * [sample](https://github.com/snippetfinder/The-Quick-Snippet-Reference/tree/main/snippets/js/sample%20js/sample.js)
+</details>
