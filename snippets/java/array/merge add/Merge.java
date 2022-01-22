@@ -11,10 +11,10 @@ public class Merge {
         int array1Len = array1.length;
         int array2Len = array2.length;
 
-        int[] res = new int[array1Len + array2Len];
+        int[] res = new int[array1Len + array2Len];              // ≡
 
-        System.arraycopy(array1, 0, res, 0, array1Len);
-        System.arraycopy(array2, 0, res, array1Len, array2Len);
+        System.arraycopy(array1, 0, res, 0, array1Len);          // ≡
+        System.arraycopy(array2, 0, res, array1Len, array2Len);  // ≡
 
         System.out.println(Arrays.toString(res));
     }

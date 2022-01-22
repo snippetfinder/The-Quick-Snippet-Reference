@@ -11,7 +11,7 @@ public class Reverse
         foreach(int el in array){
             Console.WriteLine(el.ToString());
         }
-        Array.Reverse(array);
+        Array.Reverse(array);  // ≡
 
         Console.WriteLine("after reversing");
 

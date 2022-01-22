@@ -13,7 +13,7 @@ public class Replace {
         {
             Console.WriteLine(el);
         }
-        array[index] = item;
+        array[index] = item;  // ≡
 		Console.WriteLine("after replacing");
 		foreach (int el in array)
         {

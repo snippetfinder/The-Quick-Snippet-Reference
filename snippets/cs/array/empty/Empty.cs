@@ -7,7 +7,7 @@ public class Empty {
          Console.WriteLine(el);
       }
 
-      Array.Clear(array, 0, array.Length);
+      Array.Clear(array, 0, array.Length);  // ≡
       Console.WriteLine("After Emptying::");
       foreach (int el in array) {
          Console.WriteLine(el);

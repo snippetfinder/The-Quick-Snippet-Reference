@@ -1,20 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Other/File.java to edit this template
- */
 package array;
 
 import java.util.Arrays;
 
-/**
- *
- * @author Evans Meja
- */
 public class Move {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String args[]) {
         int sourceArray[] = new int[] { 5, 4, 3, 2, 1};
         int destinationArray[] = new int[] { 85, 40, 13, 2, 91};
@@ -48,8 +37,5 @@ public class Move {
         System.arraycopy(p2, 0, final_array, (p1.length + arrayCut.length) , p2.length);
 
         System.out.println(Arrays.toString(final_array));
-
-
-
     }
 }

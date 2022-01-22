@@ -13,7 +13,7 @@ public class SetTest {
         {
             Console.WriteLine(el);
         }
-        array[index] = item;
+        array[index] = item;  // ≡
 		Console.WriteLine("after setting");
 		foreach (int el in array)
         {

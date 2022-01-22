@@ -7,7 +7,7 @@ public class Search
     {
         int[] array = { 5, 4, 3, 2, 1 };
         int item = 4;
-        int index = Array.IndexOf(array, item);
+        int index = Array.IndexOf(array, item);  // ≡
         Console.WriteLine(index);
     }
 }

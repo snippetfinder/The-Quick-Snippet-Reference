@@ -11,7 +11,7 @@ public class Sort
         foreach(int i in array) {
             Console.Write(i + " ");
         }
-        Array.Sort(array);
+        Array.Sort(array);  // ≡
 
         Console.WriteLine("after sorting");
 

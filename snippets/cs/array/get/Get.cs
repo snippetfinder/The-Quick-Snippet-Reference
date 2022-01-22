@@ -7,7 +7,7 @@ public class Get {
 	{
 		int[] array = {5, 4, 3, 2, 1};
 		int index = 1;
-		int item = array[index];
+		int item = array[index];  // ≡
 		Console.WriteLine(item);
 	}
 

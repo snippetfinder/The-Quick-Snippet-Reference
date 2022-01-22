@@ -10,7 +10,7 @@ public class Var {
         // declarations of arrays
         int number = 10;
         double decimal = 2.3;
-        String string = "Hello there.";
+        String string = "Hello there.";  // ≡
         System.out.println(string); // Hello there.
         string = "Goodbye!";
         System.out.println(string); // Goodbye

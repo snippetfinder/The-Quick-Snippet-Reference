@@ -8,7 +8,7 @@ public class Var {
         // declarations of arrays
         int[] array = new int[0];
         System.out.println(Arrays.toString(array));
-        int[] IntArr = { 1, 2, 3, 4, 5 };
+        int[] IntArr = { 1, 2, 3, 4, 5 };  // ≡
         System.out.println(Arrays.toString(IntArr));
         String [] StringArray = { "evans", "tom" };
         System.out.println(Arrays.toString(StringArray));

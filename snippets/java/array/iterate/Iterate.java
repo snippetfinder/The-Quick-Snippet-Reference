@@ -12,7 +12,7 @@ public class Iterate {
 
         int x;
         // iterating over an array
-        for (int i : ar) {
+        for (int i : ar) {  // ≡
             // accessing each element of array
             x = i;
             System.out.print(x + " ");

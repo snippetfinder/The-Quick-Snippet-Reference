@@ -7,7 +7,7 @@ public class Clear {
 		Console.WriteLine("Before Clearing Array");
 		PrintArrayItems(myArr);
 		Console.WriteLine();
-		Array.Clear(myArr, 0, myArr.Length);
+		Array.Clear(myArr, 0, myArr.Length);  // ≡
 		Console.WriteLine("After Clearing Array");
 		PrintArrayItems(myArr);
 	}
