@@ -8,10 +8,10 @@ console.log(url + '?style=' + encodeURIComponent(parameter));  // https://exampl
 /* ❯❯❯ GENERATOR:TABLE:JAVASCRIPT:Compare()
 function Compare()
 {
-    var table = [['character', 'encodeURI', 'encodeURIComponent', 'escape (deprecated)']];
-    var characters = ['*', '.', '_', '-', '~', "'", '!', '(', ')', '/', '+', '@', '?', '=', ':', '#', ';', ',', '$', '&', ' ', '%', '^', '[', ']', '{', '}', '<', '>', '"', '\\', '|', '`'];
-    for (var character of characters)
-        table.push([character, encodeURI(character), encodeURIComponent(character), escape(character)]);
-    return table;
+    var t = [['character', 'encodeURI', 'encodeURIComponent', 'escape (DEPRECATED)']];
+    var cl = ['*', '-', '.', '_', '~', '!', "'", '(', ')', '+', '/', '@', '#', '$', '&', ',', ':', ';', '=', '?', ' ', '"', '%', '<', '>', '[', '\\', ']', '^', '`', '{', '|',  '}'];
+    for (var c of cl)
+        t.push([c, encodeURI(c), encodeURIComponent(c), escape(c)]);
+    return t;
 }
 GENERATOR ❮❮❮ */
