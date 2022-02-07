@@ -13,7 +13,7 @@ void print(vector <int> const &a) {
 
 int main() {
    vector<int> a = {3, 2};
-   int item = 1
+   int item = 1;
    cout << "before adding : ";
    print(a);
    a.push_back(item);

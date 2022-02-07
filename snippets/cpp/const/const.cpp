@@ -3,34 +3,27 @@
 #include <string>
 using namespace std;
 
-int main()
-{
-    print(_string()) //  Hello there. 
-    return 0;
-}
-
-int number(){
+int number() {
     return 10;
 }
 
-
-double number(){
+double decimal() {
     return 2.3;
 }
 
-string _string(){
+string _string() {
     return "Hello there.";
 }
 
-
-int *array( int arr[] ) { 
+int *array(int arr[]) {
     return arr;
 }
 
-string dictionary(){
+string dictionary() {
     return "Hello there.";
 }
 
-
-
-      ≡
+int main() {
+    cout << _string();  // Hello there. 
+    return 0;
+}
